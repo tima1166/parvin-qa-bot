@@ -44,3 +44,13 @@ The bot uses a pre-trained transformer model to answer questions given a short E
 # (Optional but recommended) create and activate a virtualenv
 
 pip install -r requirements.txt
+## 🤖 Example Q&A
+Here are some sample questions the model can answer based on the context:
+
+Question: Where was Parvin E'tesami born?
+Answer: Tabriz
+Confidence Score: 0.98
+
+Question: What was the main theme of her poems?
+Answer: social justice and the lives of the underprivileged
+Confidence Score: 0.85
