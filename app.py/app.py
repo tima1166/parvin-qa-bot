@@ -7,7 +7,7 @@ qa_model = pipeline("question-answering", model="distilbert-base-cased-distilled
 # 2. Updated context with death and age information
 context_text = """
 Parvin E'tesami was a prominent Iranian poet known for her didactic and social poetry. 
-She was born in 1907 in Tabriz and died in 1941 in Tehran at the age of 34. 
+She was born in 1907 in Tabriz.
 Her poems often focused on themes of social justice and the lives of the underprivileged.
 """
 
